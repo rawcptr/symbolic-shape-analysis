@@ -1,0 +1,11 @@
+Generated Constraints:
+0. True
+1. True
+2. True
+3. True
+4. Or(N_v0 == 1, N_v0 == B_v4, B_v4 == 1)
+5. Or(C_v1 == 1, C_v1 == T_v5, T_v5 == 1)
+6. Or(H_v2 == 1, 32 == H_v2)
+
+Solver check: sat
+Model: [T_v5 = 0, H_v2 = 1, C_v1 = 0, B_v4 = 1, N_v0 = 1]

@@ -1,0 +1,11 @@
+[project]
+name = "symbolic-shape-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "networkx>=3.2.1",
+    "torch>=2.8.0",
+    "z3-solver>=4.15.3.0",
+]
